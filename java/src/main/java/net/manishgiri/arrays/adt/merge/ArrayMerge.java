@@ -4,7 +4,6 @@ import java.util.Arrays;
 
 public class ArrayMerge {
 
-
     private static int[] mergeSortedArrays(int[] num1, int[] num2) {
         int newLength = num1.length + num2.length;
         int[] merged = new int[newLength];
@@ -29,7 +28,6 @@ public class ArrayMerge {
         }
 
         return merged;
-
     }
 
     public static void main(String[] args) {
@@ -38,6 +36,4 @@ public class ArrayMerge {
         int[] merged = mergeSortedArrays(num1, num2);
         System.out.println(Arrays.toString(merged));
     }
-
-
 }
