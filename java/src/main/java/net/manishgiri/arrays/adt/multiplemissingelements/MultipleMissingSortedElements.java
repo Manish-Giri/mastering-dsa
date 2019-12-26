@@ -8,6 +8,7 @@ public class MultipleMissingSortedElements {
      * Given a sorted array of elements with multiple missing elements, print the missing elements
      * if diff b/w element and index is not equal to prev difference
      * loop: while diff is not equal -> print missing element and increment difference
+     * Complexity -> Time: O(n)
      * @param arr
      */
     private static void printMultipleMissingElements(int[] arr) {
