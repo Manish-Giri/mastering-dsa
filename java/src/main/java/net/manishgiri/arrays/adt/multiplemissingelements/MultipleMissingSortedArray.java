@@ -2,7 +2,7 @@ package net.manishgiri.arrays.adt.multiplemissingelements;
 
 import java.util.Arrays;
 
-public class MultipleMissingSortedElements {
+public class MultipleMissingSortedArray {
 
     /**
      * Given a sorted array of elements with multiple missing elements, print the missing elements
