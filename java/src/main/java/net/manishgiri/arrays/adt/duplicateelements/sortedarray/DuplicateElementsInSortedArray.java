@@ -31,3 +31,17 @@ public class DuplicateElementsInSortedArray {
 
     }
 }
+
+/*
+
+OUTPUT -
+
+Duplicate Element #1: 8
+Duplicate Element #2: 8
+Duplicate Element #1: 15
+Duplicate Element #2: 15
+Duplicate Element #3: 15
+Duplicate Element #4: 15
+Duplicate Element #5: 15
+
+*/
